@@ -1,4 +1,4 @@
-<h1><a href="https://jvaiscaennais.com">Ethan <q cite="https://fr.wikipedia.org/wiki/Tintin">Tintin</q> Le Neindre</a></h1>
+<h1><a href="https://jvaiscaennais.com" target="_blank">Ethan <q cite="https://fr.wikipedia.org/wiki/Tintin">Tintin</q> Le Neindre</a></h1>
 <img src="https://p1.storage.canalblog.com/12/85/937508/81474591_o.gif" alt="Gif de Tintin, en train de courir avec son chien Milou" width="75">
 <ul>
   <li>💻 IT Student and developper. I like and do Web dev, Android dev and Fullstack dev (swiss army knife 🤪)</li>
