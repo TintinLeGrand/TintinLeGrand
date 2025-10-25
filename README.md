@@ -1,8 +1,17 @@
-<h1><a href="https://jvaiscaennais.com" target="_blank">Ethan <q cite="https://fr.wikipedia.org/wiki/Tintin">Tintin</q> Le Neindre</a></h1>
+# [Ethan <q cite="https://fr.wikipedia.org/wiki/Tintin">Tintin</q> Le Neindre](https://www.ethanleneind.re)
+
 <img src="https://p1.storage.canalblog.com/12/85/937508/81474591_o.gif" alt="Gif de Tintin, en train de courir avec son chien Milou" width="75">
-<ul>
-  <li>💻 IT Student and developper. I like and do Web dev, Android dev and Fullstack dev (swiss army knife 🤪)</li>
-  <li>🧫 I love to discover new things</li>
-  <li>🌳 Caring for the environment</li>
-  <li>🎲 <q>Entertainment should be accessible to all</q></li>
-</ul>
+
+## About me
+* 💻 IT Student and developper. I like and do Web dev, Android dev and Fullstack dev (swiss army knife 🤪)
+* 🧫 I love to discover new things
+* 🌳 Caring for the environment  
+* 🎲 <q>Entertainment should be accessible to all</q>
+
+## Some stats
+[![My languages use statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=TintinLeGrand&theme=transparent)](https://github-readme-stats.vercel.app/)
+
+## Links
+* [Portfolio](https://www.ethanleneind.re)
+* [LinkedIn](www.linkedin.com/in/ethanleneindre)
+* [Bluesky](https://bsky.app/profile/ethan.4fromages.fr)
