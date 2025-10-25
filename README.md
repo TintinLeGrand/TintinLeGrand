@@ -1,4 +1,4 @@
-# [Ethan <q cite="https://fr.wikipedia.org/wiki/Tintin">Tintin</q> Le Neindre](https://www.ethanleneind.re)
+# Ethan <q cite="https://fr.wikipedia.org/wiki/Tintin">Tintin</q> Le Neindre
 
 <img src="https://p1.storage.canalblog.com/12/85/937508/81474591_o.gif" alt="Gif de Tintin, en train de courir avec son chien Milou" width="75">
 
